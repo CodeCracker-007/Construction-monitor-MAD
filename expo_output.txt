@@ -1,0 +1,9 @@
+Starting project at /Users/mac/Desktop/MAD project
+(node:74492) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Starting Metro Bundler
+The following packages should be updated for best compatibility with the installed expo version:
+  expo-image-picker@15.0.7 - expected version: ~15.1.0
+Your project may not work correctly until you install the expected versions of the packages.
+Waiting on http://localhost:8081
+Logs for your project will appear below.

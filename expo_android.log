@@ -1,0 +1,11 @@
+Starting project at /Users/mac/Desktop/MAD project
+(node:74918) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Starting Metro Bundler
+The following packages should be updated for best compatibility with the installed expo version:
+  expo-image-picker@15.0.7 - expected version: ~15.1.0
+Your project may not work correctly until you install the expected versions of the packages.
+CommandError: No Android connected device found, and no emulators could be started automatically.
+Please connect a device or create an emulator (https://docs.expo.dev/workflow/android-studio-emulator).
+Then follow the instructions here to enable USB debugging:
+https://developer.android.com/studio/run/device.html#developer-device-options. If you are using Genymotion go to Settings -> ADB, select "Use custom Android SDK tools", and point it at your Android SDK directory.
